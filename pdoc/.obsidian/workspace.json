@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c316de88de5213b5",
+        "id": "fcb4796a69975361",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d7da552e962af3",
+            "id": "960b775c6418cb94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Set up documentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f96809543d22514",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dotfiles.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dotfiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dotfiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dotfiles.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,12 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f96809543d22514",
+  "active": "960b775c6418cb94",
   "lastOpenFiles": [
     "Set up documentation.md",
+    "Zettlekasten.md",
+    "PARA.md",
+    "Obsidian.md",
+    "Resource/Resource.md",
+    "Project/Project.md",
+    "Area/Area.md",
+    "Archive/Archive.md",
     "Dotfiles.md",
+    "Index.md",
     "Wezterm config.md",
-    "Attachment/symlinked-local-config-files.png",
-    "Welcome.md"
+    "Welcome.md",
+    "Attachment/Attachment.md",
+    "Template/Template.md",
+    "Attachment/symlinked-local-config-files.png"
   ]
 }

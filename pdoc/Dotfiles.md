@@ -1,9 +1,15 @@
+tags: #config 
+
 Dotfiles are configuration files for your setup. It holds important settings and enable you to personalize your setup. It should minimize setup time when you need to get a new computer, increasing familiarity and longevity in a gradual manner. 
 
 In order to develop a stable setup your dotfiles are in your github account 
 ```
 https://github.com/cltj/dotfiles
 ```
+
+
+> [!Remember] Remeber! 
+> This is a public repo
 
 
 The repo is structured in a way so that you can just clone the repo in under your `home/tj` and use [[gnu stow]] to insert your settings into the local environment. `~/.config`

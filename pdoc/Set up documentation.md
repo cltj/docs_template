@@ -1,3 +1,6 @@
+Tags: 
+#guide
+
 
 Follow these steps to set up a version controlled obsidian vault on github. 
 
@@ -22,7 +25,7 @@ mv Archive Area Attachment Index.md Project/ Resource Template <YOUR-VAULT>
 7. In obsidian open the settings and activate the community plugins
 8. Browse, install and enable the git plugin as well as the Version history diff plugin
 9. In the options for the git plugin, scoll down and fill in author `cltj` and email `tj@cloudlink.ai`
-10. Restart obsidian, you should now see your [[PARA]] hierarchy. Use `CTRL+P` and select `Open Source Control View` to display the source control
+10. Restart obsidian, you should now see your hierarchy of files and folders. Use `CTRL+P` and select `Open Source Control View` to display the source control
 11. Use `CTRL+P` and search for Backup. Choose `Git: Create backup` and press enter
 12. Verify that your vault was pushed to the github repo
 
