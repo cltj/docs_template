@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b55037876e3afb7c",
+        "id": "c316de88de5213b5",
         "type": "tabs",
         "children": [
           {
-            "id": "704da4580df9b026",
+            "id": "c6d7da552e962af3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Set up documentation.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "64efde38a8db9a4d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ae246bf4bfa8cf39",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Set up documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Set up documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Set up documentation.md"
               }
             }
           },
@@ -168,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "704da4580df9b026",
+  "active": "c6d7da552e962af3",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "Set up documentation.md"
   ]
 }
