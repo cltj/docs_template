@@ -25,3 +25,19 @@ mv Archive Area Attachment Index.md Project/ Resource Template <YOUR-VAULT>
 10. Restart obsidian, you should now see your [[PARA]] hierarchy. Use `CTRL+P` and select `Open Source Control View` to display the source control
 11. Use `CTRL+P` and search for Backup. Choose `Git: Create backup` and press enter
 12. Verify that your vault was pushed to the github repo
+
+
+> [!Config Tip!]
+> You can symlink to your documentation by using
+> ```
+> ln -s /mnt/c/Users/kinst/iCloudDrive/Documents/docs ~/docs
+> ```
+> 
+> ```
+> ls -l ~/docs
+> ```
+> 
+> ```
+> cd docs
+> ```
+

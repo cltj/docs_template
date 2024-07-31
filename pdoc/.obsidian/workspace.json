@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f96809543d22514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dotfiles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set up documentation.md",
+                "file": "Dotfiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set up documentation.md",
+                "file": "Dotfiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set up documentation.md"
+                "file": "Dotfiles.md"
               }
             }
           },
@@ -154,9 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6d7da552e962af3",
+  "active": "6f96809543d22514",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Set up documentation.md"
+    "Set up documentation.md",
+    "Dotfiles.md",
+    "Wezterm config.md",
+    "Attachment/symlinked-local-config-files.png",
+    "Welcome.md"
   ]
 }
