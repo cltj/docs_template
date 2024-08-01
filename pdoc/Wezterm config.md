@@ -1,7 +1,7 @@
 Tags:
 #config
 
-To even get [Wez's Terminal Emulator )](https://wezfurlong.org/wezterm/config/files.html) to work you have a config file on your windows system at this location.
+To even get [Wez's Terminal Emulator](https://wezfurlong.org/wezterm/config/files.html) to work you have a config file on your windows system at this location.
 
 ```
 C:\Users\kinst\.config\wezterm

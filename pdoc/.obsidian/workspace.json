@@ -4,18 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fcb4796a69975361",
+        "id": "e040f0c60257b6b2",
         "type": "tabs",
         "children": [
           {
-            "id": "960b775c6418cb94",
+            "id": "8faf0ac7a19c00c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Make a test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5026054382324
   },
   "right": {
     "id": "c23eea145b282e43",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Make a test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Make a test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Make a test.md"
+              }
             }
           },
           {
@@ -128,13 +137,25 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "6116d39efe3435e4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 532.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,22 +164,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "960b775c6418cb94",
+  "active": "8faf0ac7a19c00c7",
   "lastOpenFiles": [
-    "Set up documentation.md",
+    "Make a test.md",
+    "Template/Zettle_template_v1.md",
+    "Zettle.md",
+    "00-MOC",
     "Zettlekasten.md",
-    "PARA.md",
+    "status.md",
     "Obsidian.md",
-    "Resource/Resource.md",
-    "Project/Project.md",
-    "Area/Area.md",
-    "Archive/Archive.md",
+    "Some test.md",
+    "Some note.md",
     "Dotfiles.md",
-    "Index.md",
+    "PARA.md",
+    "temp_from_notepad.md",
+    "Set up documentation.md",
     "Wezterm config.md",
+    "03-Resource/Resource.md",
+    "01-Project/Project.md",
+    "02-Area/Area.md",
+    "04-Archive/Archive.md",
+    "Index.md",
     "Welcome.md",
     "Attachment/Attachment.md",
     "Template/Template.md",

@@ -1,0 +1,16 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":black_large_square:",
+    ":black_medium_square:",
+    ":file_cabinet:",
+    ":purple_square:",
+    ":green_square:",
+    ":yellow_square:",
+    ":orange_square:",
+    ":red_square:"
+  ]
+}

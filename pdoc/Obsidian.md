@@ -1,6 +1,3 @@
-tags:
-#structuring-notes 
-
 [Obsidian](https://obsidian.md/) is a tool for #structuring-notes and information. It has gained popularity in the IT space cause of its simple use, eco-system of plugins and customization options. 
 
 Together with [[PARA]] and [[Zettlekasten]] methods i aim to get valuable information quickly
@@ -12,6 +9,22 @@ Obsidian dialect of markdown is used for text, it has directories and a special 
 ### Obsidian Plugins
 - git - lets you interact with git straight from within obsidian
 - version history diff - displays the Source control tab
+- templater - configure and code your templates
+- emoji shortcodes - make pretty
+
+### Tags
+- Status: to signify any articles development
+	- #🟥 Just started or not developed
+	- #🟨 Improved
+	- #🟩 Satisfied
+	- #🟪 Will required continuous work over time
+	- #⬛ Old or archived articles
+Benefits: 
+I can routinely cycle and improve knowledge and develop thoughts and zettle's
+
+
+### Links
+
 
 ### Questions and ideas
 - Is it enough to just symlink to my `/icloudstorage/douments/docs/pdoc` from my linux home directly? How does this work when i get better at neovim and with telescope?
@@ -22,7 +35,9 @@ Obsidian dialect of markdown is used for text, it has directories and a special 
 > What does a useful template look like to me. 
 > Read more about zettlekasten and PARA first. 
 > Experiment with tags and links and templates 
- 
+
+
+
 ## Links and inspirations:
 
 [Obsidian - git docs](https://publish.obsidian.md/git-doc/Start+here)
