@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "992432c2dec26c36",
+        "id": "fd704c3d6711b6c4",
         "type": "tabs",
         "children": [
           {
-            "id": "adbf7d718ca99d0c",
+            "id": "478cb36b63b4b326",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Retire.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Retire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Retire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Retire.md"
+              }
             }
           },
           {
@@ -166,12 +174,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "adbf7d718ca99d0c",
+  "active": "478cb36b63b4b326",
   "lastOpenFiles": [
+    "01-Project/Save 500K in Index.md",
+    "Retire.md",
+    "retire.md",
     "06-Journal/2024-W31.md",
     "98-Template/Zettle_template_v1.md",
     "06-Journal/Journal.md",
@@ -203,11 +213,7 @@
     "02-Area/finance",
     "02-Area/relationship",
     "01-Project/Note taking",
-    "PARA_old.md",
-    "testmo.md",
-    "Make a test.md",
     "00-MOC",
-    "Some test.md",
     "97-Attachment/symlinked-local-config-files.png"
   ]
 }
