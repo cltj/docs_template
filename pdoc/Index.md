@@ -6,7 +6,7 @@ Welcome to your new documentation vault! This is the main index where you can fi
 - [[Resource]] - usually external articles or your guides
 - [[Fleeting]] - your thoughts, questions and ideas 
 - [[Permanent]] - a more formal and well formed idea
-- [[Daily]] - your journal
+- [[Journal]] - your journal
 - [[Archive]] - old info that still have value
 - [[Attachment]] - images and documents
 - Template - obsidian templates

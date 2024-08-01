@@ -52,7 +52,7 @@
         "color": "#c952ed"
       },
       {
-        "rule": "06-Daily",
+        "rule": "06-Journal",
         "icon": "LiClock",
         "for": "everything",
         "order": 6,

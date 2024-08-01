@@ -1,1 +1,0 @@
-Daily notes are your daily notes.

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4a287f57f70286b2",
+        "id": "992432c2dec26c36",
         "type": "tabs",
         "children": [
           {
-            "id": "0a8757305077313c",
+            "id": "adbf7d718ca99d0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🟩",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,44 +170,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4e4ddee91ab41eb3",
+  "active": "adbf7d718ca99d0c",
   "lastOpenFiles": [
+    "06-Journal/2024-W31.md",
+    "98-Template/Zettle_template_v1.md",
+    "06-Journal/Journal.md",
+    "Index.md",
+    "00-MOC/MOC.md",
     "05-Fleeting/Fleeting.md",
-    "03-Resource/Resource.md",
     "04-Permanent/Permanent.md",
+    "98-Template/Weekly_note_template.md",
+    "03-Resource/Resource.md",
     "02-Area/Area.md",
     "Set up documentation.md",
     "Wezterm config.md",
     "Obsidian.md",
-    "Index.md",
     "01-Project/Note taking/Zettlekasten.md",
     "01-Project/Note taking/Zettle.md",
     "01-Project/Note taking/Status.md",
     "01-Project/Note taking/PARA.md",
     "05-Fleeting/temp_from_notepad.md",
-    "00-MOC/MOC.md",
     "Dotfiles.md",
     "97-Attachment/Attachment.md",
     "07-Archive/Archive.md",
-    "06-Daily/Daily.md",
     "01-Project/Project.md",
     "99-Meta",
     "05-Fleeting",
     "04-Permanent",
-    "06-Daily",
+    "06-Journal",
     "02-Area/career",
     "02-Area/house",
     "02-Area/finance",
     "02-Area/relationship",
-    "98-Template/Zettle_template_v1.md",
     "01-Project/Note taking",
     "PARA_old.md",
     "testmo.md",
     "Make a test.md",
     "00-MOC",
     "Some test.md",
-    "Some note.md",
-    "Welcome.md",
     "97-Attachment/symlinked-local-config-files.png"
   ]
 }
