@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-version-history-diff",
   "templater-obsidian",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "obsidian-relative-line-numbers",
+  "obsidian-icon-folder"
 ]

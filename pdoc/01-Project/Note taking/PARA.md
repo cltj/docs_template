@@ -1,8 +1,26 @@
-PARA is a way of #structuring-notes
+--- 
+creation date: 2024-08-01 12:02
+modification date: 2024-08-01 12:02
+status: #🟨 
+topic: #structuring-notes 
 
-I am willing to give this a try. 
-For a theoretical understanding refer to [The PARA Method: The Simple System for Organizing Your Digital Life in Seconds](https://fortelabs.com/blog/para/)
+---
+Summary: PARA is a simple way of structuring notes. It is based on the observation: "that there are only four categories that encompass all the information in your life".
+- **projects** - short term efforts you are actively working on (usually have a completion date)
+- **area** - ongoing parts of life that require attention
+- **resource** - topics you are interested in learning
+- **archive** - unactive parts from the above that you want kept
 
+---
+#### Key takeaways
+PARA promises a simple, comprehensive, yet extremely flexible system for organizing any type of digital information.
+It is a minimalistic way to add _just enough_ order to your environment that you have the clarity to move forward.
+
+**Its focus is by submitting and (re)using and manageing information in a quick manner you over time improve your productivity** 
+
+For more refer to [The PARA Method: The Simple System for Organizing Your Digital Life in Seconds](https://fortelabs.com/blog/para/)
+
+#### Body
 PARA consist of 4 categories:
 You have **projects** you’re actively working on – short-term efforts (in your work or personal life) that you take on with a certain goal in mind. For example:
 
@@ -44,3 +62,11 @@ Finally, you have **archives**, which include anything from the previous three 
 
 Combining PARA and [[Zettlekasten]] with a tool like [[Obsidian]] I hope to quickly get to useful info, sourced from the web or remembering my own thoughts and advancements. 
 
+
+
+
+##### Questions, Ideas and Improvements
+- You can fill out more of the subfolder structure
+
+---
+#### References

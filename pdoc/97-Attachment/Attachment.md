@@ -1,0 +1,1 @@
+A common folder for all images and files

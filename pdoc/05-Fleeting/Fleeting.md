@@ -1,0 +1,1 @@
+Fleeting notes are from [[Zettlekasten]] method and are small ideas you wish to log for future purpose and organization. 

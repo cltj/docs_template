@@ -1,8 +1,6 @@
-tags:
-#structuring-notes 
-# The resource part of PARA
- **resources** on a range of topics you’re interested in and learning about, such as:
+**resources** on a range of topics you’re interested in and learning about
 
+Examples:
 - Terraform, neovim, python, linux, git/dithub/devops
 - Personal productivity
 - Organic gardening
@@ -11,7 +9,3 @@ tags:
 - Garden design
 - Woodworking
 - Notetaking
-
-
-See more at [[PARA]]
-

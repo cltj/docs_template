@@ -22,7 +22,8 @@ topic: [[topic]]
 
 `creation date` and `modification date` so it is easy to see the article age and when it was last reviewed/modified.
 `status` is to indicate how mature/developed the article is.
-`topic` is a keyword to relate zettle's together when/if the [[PARA]] method breaks.
+`topic` is a keyword to relate zettle's together when/if the [[PARA]]
+method breaks.
 
 
 Weaknesses for id: conflicting article names, or slightly different words for the same thing can clutter your vault. 
