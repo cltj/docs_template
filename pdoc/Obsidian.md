@@ -1,6 +1,6 @@
 [Obsidian](https://obsidian.md/) is a tool for #structuring-notes and information. It has gained popularity in the IT space cause of its simple use, eco-system of plugins and customization options. 
 
-Together with [[PARA_old]] and [[Zettlekasten]] methods i aim to get valuable information quickly
+Together with [[PARA]] and [[Zettlekasten]] methods i aim to get valuable information quickly
 
 ### Structure
 Obsidian dialect of markdown is used for text, it has directories and a special `.obsidian` directory that holds the configurations settings. 

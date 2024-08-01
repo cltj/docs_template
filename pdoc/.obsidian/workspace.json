@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retire.md",
-                "mode": "source",
+                "file": "Obsidian.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retire.md",
+                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retire.md",
+                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retire.md"
+                "file": "Obsidian.md"
               }
             }
           },
@@ -179,22 +179,23 @@
   },
   "active": "478cb36b63b4b326",
   "lastOpenFiles": [
-    "01-Project/Save 500K in Index.md",
-    "Retire.md",
-    "retire.md",
-    "06-Journal/2024-W31.md",
+    "PARA_old.md",
+    "Obsidian.md",
     "98-Template/Zettle_template_v1.md",
+    "98-Template/Weekly_note_template.md",
+    "06-Journal/2024-W31.md",
+    "Retire.md",
+    "01-Project/Save 500K in Index.md",
+    "retire.md",
     "06-Journal/Journal.md",
     "Index.md",
     "00-MOC/MOC.md",
     "05-Fleeting/Fleeting.md",
     "04-Permanent/Permanent.md",
-    "98-Template/Weekly_note_template.md",
     "03-Resource/Resource.md",
     "02-Area/Area.md",
     "Set up documentation.md",
     "Wezterm config.md",
-    "Obsidian.md",
     "01-Project/Note taking/Zettlekasten.md",
     "01-Project/Note taking/Zettle.md",
     "01-Project/Note taking/Status.md",
