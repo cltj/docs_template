@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af2d695d21e827ca",
+        "id": "4a287f57f70286b2",
         "type": "tabs",
         "children": [
           {
-            "id": "0b44d40b3bbef6b7",
+            "id": "0a8757305077313c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC.md"
+                "file": "Index.md"
               }
             }
           },
@@ -145,9 +145,17 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               }
+            }
+          },
+          {
+            "id": "78f5207c7dfbb05f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -165,46 +173,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "0b44d40b3bbef6b7",
+  "active": "4e4ddee91ab41eb3",
   "lastOpenFiles": [
-    "Index.md",
-    "03-Resource/Resource.md",
-    "Dotfiles.md",
-    "04-Permanent/Permanent.md",
     "05-Fleeting/Fleeting.md",
+    "03-Resource/Resource.md",
+    "04-Permanent/Permanent.md",
+    "02-Area/Area.md",
+    "Set up documentation.md",
+    "Wezterm config.md",
+    "Obsidian.md",
+    "Index.md",
+    "01-Project/Note taking/Zettlekasten.md",
+    "01-Project/Note taking/Zettle.md",
+    "01-Project/Note taking/Status.md",
+    "01-Project/Note taking/PARA.md",
+    "05-Fleeting/temp_from_notepad.md",
+    "00-MOC/MOC.md",
+    "Dotfiles.md",
     "97-Attachment/Attachment.md",
     "07-Archive/Archive.md",
     "06-Daily/Daily.md",
     "01-Project/Project.md",
-    "MOC.md",
-    "02-Area/Area.md",
-    "Obsidian.md",
     "99-Meta",
     "05-Fleeting",
     "04-Permanent",
     "06-Daily",
-    "01-Project/Note taking/PARA.md",
     "02-Area/career",
     "02-Area/house",
     "02-Area/finance",
     "02-Area/relationship",
-    "01-Project/Note taking/Zettlekasten.md",
-    "01-Project/Note taking/Zettle.md",
     "98-Template/Zettle_template_v1.md",
     "01-Project/Note taking",
     "PARA_old.md",
     "testmo.md",
     "Make a test.md",
     "00-MOC",
-    "status.md",
     "Some test.md",
     "Some note.md",
-    "temp_from_notepad.md",
-    "Set up documentation.md",
-    "Wezterm config.md",
     "Welcome.md",
     "97-Attachment/symlinked-local-config-files.png"
   ]

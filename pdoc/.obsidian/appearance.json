@@ -2,5 +2,8 @@
   "cssTheme": "Obsidian gruvbox",
   "interfaceFontFamily": "0xProto Nerd Font Mono",
   "textFontFamily": "",
-  "monospaceFontFamily": "0xProto Nerd Font Mono"
+  "monospaceFontFamily": "0xProto Nerd Font Mono",
+  "enabledCssSnippets": [
+    "colored_sidebar_items"
+  ]
 }

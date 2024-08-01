@@ -1,1 +1,2 @@
-Fleeting notes are from [[Zettlekasten]] method and are small ideas you wish to log for future purpose and organization. 
+Fleeting notes are from the [[Zettlekasten]] method and are **small ideas or questions** you formulate in your **own words**. 
+Together with [[Resource]] (or articles from external sources) you can then combine this into a more [[Permanent]] documentation. 

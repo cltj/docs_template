@@ -15,7 +15,7 @@ The metadata is provided by the plugin templater and looks like this.
 ---
 creation date: 2024-08-01 09:07 
 modification date: 2024-08-02 11:12:13 
-status: [[status]]
+status: [[Status]]
 topic: [[topic]]
 
 ---

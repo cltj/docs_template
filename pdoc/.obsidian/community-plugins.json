@@ -4,5 +4,7 @@
   "templater-obsidian",
   "emoji-shortcodes",
   "obsidian-relative-line-numbers",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "calendar",
+  "periodic-notes"
 ]

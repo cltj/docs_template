@@ -1,1 +1,1 @@
-Permanent notes are from [[Zettlekasten]] method and are refering to sources or articles that others have made.
+Permanent notes are from [[Zettlekasten]] method and are referring to external sources or articles (not your thoughts).
