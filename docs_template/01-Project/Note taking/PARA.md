@@ -66,7 +66,6 @@ Combining PARA and [[Zettlekasten]] with a tool like [[Obsidian]] I hope to quic
 
 
 ##### Questions, Ideas and Improvements
-- You can fill out more of the subfolder structure
 
 ---
 #### References
