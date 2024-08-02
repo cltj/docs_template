@@ -63,8 +63,6 @@ Finally, you have **archives**, which include anything from the previous three 
 Combining PARA and [[Zettlekasten]] with a tool like [[Obsidian]] I hope to quickly get to useful info, sourced from the web or remembering my own thoughts and advancements. 
 
 
-
-
 ##### Questions, Ideas and Improvements
 
 ---
