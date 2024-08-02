@@ -19,22 +19,7 @@ Obsidian dialect of markdown is used for text, it has directories and a special 
 	- #🟩 Satisfied
 	- #🟪 Will required continuous work over time
 	- #⬛ Old or archived articles
-Benefits: 
-I can routinely cycle and improve knowledge and develop thoughts and zettle's
-
-
-### Links
-
-
-### Questions and ideas
-- Is it enough to just symlink to my `/icloudstorage/douments/docs/pdoc` from my linux home directly? How does this work when i get better at neovim and with telescope?
-- Can i independently develop my `.obsidian` directory as a part of a docs_template in git? Is it useful? 
-
-
-> [!NOTES]
-> What does a useful template look like to me. 
-> Read more about zettlekasten and PARA first. 
-> Experiment with tags and links and templates 
+ 
 
 
 

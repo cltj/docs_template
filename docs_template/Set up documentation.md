@@ -24,7 +24,7 @@ mv Archive Area Attachment Index.md Project/ Resource Template <YOUR-VAULT>
 ```
 7. In obsidian open the settings and activate the community plugins
 8. Browse, install and enable the git plugin as well as the Version history diff plugin
-9. In the options for the git plugin, scoll down and fill in author `cltj` and email `tj@cloudlink.ai`
+9. In the options for the git plugin, scoll down and fill in author `<user>` and email `<user>@<domain>`
 10. Restart obsidian, you should now see your hierarchy of files and folders. Use `CTRL+P` and select `Open Source Control View` to display the source control
 11. Use `CTRL+P` and search for Backup. Choose `Git: Create backup` and press enter
 12. Verify that your vault was pushed to the github repo
@@ -33,7 +33,7 @@ mv Archive Area Attachment Index.md Project/ Resource Template <YOUR-VAULT>
 > [!Config Tip!]
 > You can symlink to your documentation by using
 > ```
-> ln -s /mnt/c/Users/kinst/iCloudDrive/Documents/docs ~/docs
+> ln -s /mnt/c/Users/< user >/iCloudDrive/Documents/docs ~/docs
 > ```
 > 
 > ```
