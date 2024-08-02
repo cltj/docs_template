@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set up documentation.md",
-                "mode": "preview",
+                "file": "01-Project/Note taking/PARA.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set up documentation.md",
+                "file": "01-Project/Note taking/PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set up documentation.md",
+                "file": "01-Project/Note taking/PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set up documentation.md"
+                "file": "01-Project/Note taking/PARA.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,32 +179,32 @@
   },
   "active": "478cb36b63b4b326",
   "lastOpenFiles": [
+    "01-Project/Note taking/Status.md",
+    "01-Project/Note taking/Zettle.md",
+    "01-Project/Note taking/Zettlekasten.md",
+    "Index.md",
     "05-Fleeting/temp_from_notepad.md",
-    "Set up documentation.md",
+    "97-Attachment/symlinked-local-config-files.png",
+    "Dotfiles.md",
     "Obsidian.md",
+    "Set up documentation.md",
+    "Wezterm config.md",
+    "Retire.md",
     "PARA_old.md",
     "98-Template/Zettle_template_v1.md",
     "98-Template/Weekly_note_template.md",
     "06-Journal/2024-W31.md",
-    "Retire.md",
     "01-Project/Save 500K in Index.md",
     "retire.md",
     "06-Journal/Journal.md",
-    "Index.md",
     "00-MOC/MOC.md",
     "05-Fleeting/Fleeting.md",
     "04-Permanent/Permanent.md",
     "03-Resource/Resource.md",
     "02-Area/Area.md",
-    "Wezterm config.md",
-    "01-Project/Note taking/Zettlekasten.md",
-    "01-Project/Note taking/Zettle.md",
-    "01-Project/Note taking/Status.md",
     "01-Project/Note taking/PARA.md",
-    "Dotfiles.md",
     "97-Attachment/Attachment.md",
     "07-Archive/Archive.md",
-    "01-Project/Project.md",
     "99-Meta",
     "05-Fleeting",
     "04-Permanent",
@@ -214,7 +214,6 @@
     "02-Area/finance",
     "02-Area/relationship",
     "01-Project/Note taking",
-    "00-MOC",
-    "97-Attachment/symlinked-local-config-files.png"
+    "00-MOC"
   ]
 }

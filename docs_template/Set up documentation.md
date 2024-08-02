@@ -11,12 +11,12 @@ Follow these steps to set up a version controlled obsidian vault on github.
 2. Navigate to your icloud account > documents > docs
 3. When in your docs folder use 
 ```
-git clone https://github.com/cltj/<YOUR-REPO>.git <YOUR-REPO>
+git clone git@github.com:cltj/<YOUR-REPO>.git <YOUR-REPO>
 ``` 
 4. Open obsidian and create a new vault, chose the folder you created with the command above, and give the vault the same name
-5. If you do not have a gh_pat available, create one. Then go back to the root of the project `cd ..` and run this command
+5. If you do not have a your ssh setup, create one. Then go back to the root of the project `cd ..` and run this command
 ```
-git remote set-url origin https://<YOUR-PAT>@github.com/cltj/<YOUR-REPO>.git
+git remote set-url origin git@github.com:cltj/<YOUR-REPO>.git
 ```
 6. Move all the files from the root into the vault
 ```
