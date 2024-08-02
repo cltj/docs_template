@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Set up documentation.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Set up documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Set up documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "Set up documentation.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -179,8 +179,10 @@
   },
   "active": "478cb36b63b4b326",
   "lastOpenFiles": [
-    "PARA_old.md",
+    "05-Fleeting/temp_from_notepad.md",
+    "Set up documentation.md",
     "Obsidian.md",
+    "PARA_old.md",
     "98-Template/Zettle_template_v1.md",
     "98-Template/Weekly_note_template.md",
     "06-Journal/2024-W31.md",
@@ -194,13 +196,11 @@
     "04-Permanent/Permanent.md",
     "03-Resource/Resource.md",
     "02-Area/Area.md",
-    "Set up documentation.md",
     "Wezterm config.md",
     "01-Project/Note taking/Zettlekasten.md",
     "01-Project/Note taking/Zettle.md",
     "01-Project/Note taking/Status.md",
     "01-Project/Note taking/PARA.md",
-    "05-Fleeting/temp_from_notepad.md",
     "Dotfiles.md",
     "97-Attachment/Attachment.md",
     "07-Archive/Archive.md",

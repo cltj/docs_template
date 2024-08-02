@@ -5,13 +5,13 @@
   "daily": {
     "format": "YYYY-MM-DD",
     "template": "",
-    "folder": "06-Daily",
+    "folder": "06-Journal",
     "enabled": false
   },
   "weekly": {
     "format": "gggg-[W]w",
     "template": "98-Template/Weekly_note_template.md",
-    "folder": "06-Daily/",
+    "folder": "06-Journal",
     "enabled": true
   },
   "monthly": {
